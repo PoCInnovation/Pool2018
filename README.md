@@ -3,7 +3,7 @@
 # PoC Pool 2018
 Les sujets et corrections des piscines 2018 de l'association PoC
 
-- [AR/VR](./ar_vr/README.md)
-- [Blockchain](./blockchain/README.md)
-- [IA](./ia/README.md)
-- [Security](./security/README.md)
+- [AR/VR](./ar_vr/)
+- [Blockchain](./blockchain/)
+- [IA](./ia/)
+- [Security](./security/)
